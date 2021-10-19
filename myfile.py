@@ -1,1 +1,1 @@
-print('Hello Python14')
+print('Hello JavaScript 14!')
